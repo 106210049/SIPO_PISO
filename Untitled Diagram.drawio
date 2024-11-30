@@ -571,7 +571,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uSXKHSROD-0Nbd2N-ATT" name="SIPO">
-    <mxGraphModel dx="1298" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1308" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -905,7 +905,7 @@
             <mxPoint x="1290" y="375" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SU2BPeFzmf5Hf4As8dec-75" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SU2BPeFzmf5Hf4As8dec-75" value="parallel_out [7:0]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="160" width="970" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SU2BPeFzmf5Hf4As8dec-76" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
