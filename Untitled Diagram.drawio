@@ -571,7 +571,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uSXKHSROD-0Nbd2N-ATT" name="SIPO">
-    <mxGraphModel dx="502" dy="223" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="303" dy="124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -927,7 +927,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SU2BPeFzmf5Hf4As8dec-80" value="8&#39;d0" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="340" width="60" height="30" as="geometry" />
+          <mxGeometry x="90" y="370" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SU2BPeFzmf5Hf4As8dec-81" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="420" width="10" height="20" as="geometry" />
@@ -1113,10 +1113,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iTC_jUiCTyUAjNYal7lm-17" value="serial_in" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="370" width="60" height="30" as="geometry" />
+          <mxGeometry x="90" y="340" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iTC_jUiCTyUAjNYal7lm-18" value="load" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iTC_jUiCTyUAjNYal7lm-19" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;0&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="195" y="350" width="5" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="iTC_jUiCTyUAjNYal7lm-20" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;1&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="195" y="380" width="5" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
