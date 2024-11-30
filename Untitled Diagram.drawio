@@ -2010,6 +2010,9 @@
         <mxCell id="VBiQx9XjWhN6WLifr-QY-233" value="load" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="40" y="10" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="VBiQx9XjWhN6WLifr-QY-234" value="mode_selected" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="40" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
