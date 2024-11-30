@@ -791,7 +791,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="HH6tvZru3cDzC-nrteOS" name="PISO">
-    <mxGraphModel dx="558" dy="257" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="957" dy="441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1990,7 +1990,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VBiQx9XjWhN6WLifr-QY-229" value="shift" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="150" y="50" width="60" height="30" as="geometry" />
+          <mxGeometry x="150" y="40" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VBiQx9XjWhN6WLifr-QY-230" value="" style="shape=or;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="120" y="20" width="30" height="40" as="geometry" />
