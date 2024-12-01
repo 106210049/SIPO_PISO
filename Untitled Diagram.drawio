@@ -791,7 +791,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="HH6tvZru3cDzC-nrteOS" name="PISO">
-    <mxGraphModel dx="558" dy="257" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="670" dy="309" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1990,7 +1990,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VBiQx9XjWhN6WLifr-QY-229" value="shift" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="160" width="60" height="30" as="geometry" />
+          <mxGeometry x="60" y="120" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VBiQx9XjWhN6WLifr-QY-230" value="" style="shape=or;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="120" y="20" width="30" height="40" as="geometry" />
@@ -2011,7 +2011,7 @@
           <mxGeometry x="40" y="10" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VBiQx9XjWhN6WLifr-QY-234" value="mode_selected" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="40" y="50" width="60" height="30" as="geometry" />
+          <mxGeometry x="10" y="30" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VBiQx9XjWhN6WLifr-QY-235" value="parallel_input[0]" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="60" y="250" width="60" height="30" as="geometry" />
@@ -2112,7 +2112,7 @@
             <mxPoint x="990" y="330.17" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OZoqRt_-P2w-AISSblk5-1" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="OZoqRt_-P2w-AISSblk5-1" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#0066CC;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="120" as="sourcePoint" />
             <mxPoint x="200" y="50" as="targetPoint" />
@@ -2121,10 +2121,28 @@
         <mxCell id="OZoqRt_-P2w-AISSblk5-2" value="" style="shape=or;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="130" y="100" width="30" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OZoqRt_-P2w-AISSblk5-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="OZoqRt_-P2w-AISSblk5-3" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#0066CC;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="160" y="120" as="sourcePoint" />
             <mxPoint x="200" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OZoqRt_-P2w-AISSblk5-4" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="130" as="sourcePoint" />
+            <mxPoint x="130" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OZoqRt_-P2w-AISSblk5-5" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="110" as="sourcePoint" />
+            <mxPoint x="79.9" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OZoqRt_-P2w-AISSblk5-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="OZoqRt_-P2w-AISSblk5-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="110" as="sourcePoint" />
+            <mxPoint x="130" y="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
